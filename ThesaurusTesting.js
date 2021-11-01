@@ -1,6 +1,6 @@
 //getting the thesaurus terms for a synonym
 
-//define the term
+//define the term test
 let term = 'polieren'
 
 //define the URL to call
